@@ -2,7 +2,8 @@
 - 👀 I’m interested in programming and coffee
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on projects as a junior :)
-- 📫 How to reach me - start here!
+- 📫 How to reach me - LinkedIn: https://www.linkedin.com/in/piotr-rudyj-01a280199/
+
 
 <!---
 rudasso/rudasso is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
